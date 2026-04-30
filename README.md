@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou aluna de desenvolvimento de sistemas da Etec professor Camargo aranha, atualmente sou aprendiz em tecnologia</p>
+<p align="left">Sou aluna de desenvolvimento de sistemas da Etec professor Camargo aranha, atualmente sou aprendiz em tecnologia!</p>
 
 ###
 
